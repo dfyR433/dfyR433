@@ -1,6 +1,6 @@
-# dfyR433
+# Welcome
 
-Welcome to my GitHub! I enjoy exploring technology, building projects, and learning new skills. This is where I share my experiments, tools, and contributions to the open-source community.
+I enjoy exploring technology, building projects, and learning new skills. This is where I share my experiments, tools, and contributions to the open-source community.
 
 ---
 
